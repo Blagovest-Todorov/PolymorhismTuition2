@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.exe
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.deps.json
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.runtimeconfig.json
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.dll
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\bin\Debug\netcoreapp3.1\8.Polymorhism.pdb
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.dll
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.pdb
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.genruntimeconfig.cache
+C:\Users\Bla\source\repos\OOPLections\8.Polymorhism\obj\Debug\netcoreapp3.1\8.Polymorhism.csprojAssemblyReference.cache

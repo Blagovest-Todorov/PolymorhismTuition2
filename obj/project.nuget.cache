@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fys9TqNISG9W/AyrXiggEtfWkXfKwCcj/NtRjjf60b6UTnP7wqOmK7WFqe9W4azYJgsKshHRguw6avA3J7oNDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\OOPLections\\8.Polymorhism\\8.Polymorhism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
